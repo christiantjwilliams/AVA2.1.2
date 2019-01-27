@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "160897483582",
+    "firebase_url": "https://transformers-819a5-c0574.firebaseio.com",
+    "project_id": "transformers-819a5",
+    "storage_bucket": "transformers-819a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:160897483582:android:26ac794b42691de7",
+        "android_client_info": {
+          "package_name": "com.example.ava2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "160897483582-d4a9p2iudn4v5u5v39bmbo026cu9isqk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDv_ZdgoC4x99G3w0bIpb21vzHmMZ4oUVE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
